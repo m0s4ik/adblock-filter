@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+@@||hdblog.it^$generichide
+hdblog.it#@#.item_compra
+hdblog.it#@#.box_flame
+hdblog.it#@#.box_grampa_shadow
+hdblog.it##.item_prod
+@@*$script,domain=hdblog.it,third-party
+hdblog.it##[id^=google_ads_iframe]
